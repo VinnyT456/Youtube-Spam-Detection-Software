@@ -1,0 +1,13 @@
+numpy==1.26.4
+streamlit==1.39.0
+pandas==2.2.3
+seaborn==0.13.2
+matplotlib==3.8.4
+plotly==5.22.0
+joblib==1.4.2
+nltk==3.9.1
+symspellpy==6.7.8
+contractions==0.1.73
+emoji====2.14.0
+scikit_learn==1.2.2
+pillow==10.3.0
